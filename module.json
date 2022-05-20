@@ -1,0 +1,27 @@
+{
+  "name": "il-regno-di-wagham-calcifer",
+  "title": "Il Regno di Wagham - Calcifer",
+  "description": "",
+  "author": "R20Converter",
+  "version": "0.11.2",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "1.0.0",
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Actors (Il Regno di Wagham - Calcifer)",
+      "path": "packs/actors.db",
+      "module": "il-regno-di-wagham-calcifer",
+      "entity": "Actor",
+      "type": "Actor"
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes (Il Regno di Wagham - Calcifer)",
+      "path": "packs/scenes.db",
+      "module": "il-regno-di-wagham-calcifer",
+      "entity": "Scene",
+      "type": "Scene"
+    }
+  ]
+}
