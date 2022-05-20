@@ -23,5 +23,6 @@
       "entity": "Scene",
       "type": "Scene"
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/AkaiKoinzell/Foundry-Calcifer-Roll20/main/module.json"
 }
