@@ -14,14 +14,6 @@
       "module": "il-regno-di-wagham-calcifer",
       "entity": "Actor",
       "type": "Actor"
-    },
-    {
-      "name": "scenes",
-      "label": "Scenes (Il Regno di Wagham - Calcifer)",
-      "path": "packs/scenes.db",
-      "module": "il-regno-di-wagham-calcifer",
-      "entity": "Scene",
-      "type": "Scene"
     }
   ],
   "manifest": "https://raw.githubusercontent.com/AkaiKoinzell/Foundry-Calcifer-Roll20/main/module.json"
